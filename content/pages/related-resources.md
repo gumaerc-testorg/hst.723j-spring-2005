@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 7b0da67d-ed04-7ae0-548f-47126375aa3b
 ---
@@ -24,4 +26,4 @@ Web Sites About Hearing
 
 [Sound demos from the Acoustical Society of America](http://asa.aip.org/sound.html)
 
-[Neuroscience resources at University of Wisconsin](http://www.neurophys.wisc.edu/neurosci.html)
+[Neuroscience resources at University of Wisconsin](https://neuro.wisc.edu/)

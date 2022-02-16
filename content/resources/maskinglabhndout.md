@@ -4,8 +4,13 @@ description: 'This resource contains the introduction and description about the 
   of Perceptual Audio Coding" lab. The various topics covered are: Introduction, How
   does MP3 work?, Motivation and Objective, General information, Masking Experiments.
   These masking experiments include experiments on masking patterns and masking thresholds.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-723j-neural-coding-and-perception-of-sound-spring-2005/d1ce2dcf32d32c3faafbd1fdd22262cb_maskinglabhndout.pdf
+file: /media/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/d1ce2dcf32d32c3faafbd1fdd22262cb_maskinglabhndout.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: maskinglabhndout.pdf
 uid: d1ce2dcf-32d3-2c3f-aafb-d1fdd22262cb

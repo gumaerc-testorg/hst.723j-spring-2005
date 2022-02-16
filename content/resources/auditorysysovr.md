@@ -12,8 +12,13 @@ description: 'This resource describes the following topics: The Auditory System,
   of Hearing, Subjective and objective variables, Frequency Selectivity in Hearing,
   Masking, Issues of Masking and Nonlinearity, Binaural and Spatial Hearing, Pitch
   and Temporal Coding, Auditory Object and Stream Formation, and References.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-723j-neural-coding-and-perception-of-sound-spring-2005/82e94fd8bb40f57f70adfb1edf9ddd65_auditorysysovr.pdf
+file: /media/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/82e94fd8bb40f57f70adfb1edf9ddd65_auditorysysovr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: auditorysysovr.pdf
 uid: 82e94fd8-bb40-f57f-70ad-fb1edf9ddd65

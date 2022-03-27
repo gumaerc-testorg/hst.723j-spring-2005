@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t1_loudness.pdf
 uid: 72417c6e-d633-00d8-017c-745cf51e358e

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1e1b9138-3434-632c-b3b1-5296944289e8
 resourcetype: Document
 title: theme_4_pointers.pdf
 uid: 520cfd34-65aa-b78d-b453-ce03876d8181

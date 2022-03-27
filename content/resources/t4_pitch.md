@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t4_pitch.pdf
 uid: 174b1ccf-326e-a896-b37f-01958193f8c3

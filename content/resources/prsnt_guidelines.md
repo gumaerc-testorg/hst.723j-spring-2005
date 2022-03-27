@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1e1b9138-3434-632c-b3b1-5296944289e8
 resourcetype: Document
 title: prsnt_guidelines.pdf
 uid: edc7974c-dfaa-214a-4d29-b48e7c40dad9

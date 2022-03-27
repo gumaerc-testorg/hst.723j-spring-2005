@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1e1b9138-3434-632c-b3b1-5296944289e8
 resourcetype: Document
 title: theme_6_pointers.pdf
 uid: e0b6748f-0e5c-6837-a4da-dd1f3049f3c6

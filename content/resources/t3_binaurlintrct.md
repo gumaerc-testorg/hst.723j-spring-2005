@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t3_binaurlintrct.pdf
 uid: ce7216bc-4dba-3d8a-496b-df5d5e039f9b

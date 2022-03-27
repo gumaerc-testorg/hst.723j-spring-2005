@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1e1b9138-3434-632c-b3b1-5296944289e8
 resourcetype: Document
 title: themeguidelines.pdf
 uid: df688135-985c-9a23-82ca-e1fd781a62b9

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 40bf0679-2a0b-ef67-5b19-6e7ec8396ad7
 resourcetype: Document
 title: maskinglabhndout.pdf
 uid: d1ce2dcf-32d3-2c3f-aafb-d1fdd22262cb

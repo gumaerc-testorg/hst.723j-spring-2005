@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 40bf0679-2a0b-ef67-5b19-6e7ec8396ad7
 resourcetype: Document
 title: fmntlprcptlaudio.pdf
 uid: 19bba338-1698-2bca-5273-3750ce92dfaf

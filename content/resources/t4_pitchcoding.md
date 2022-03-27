@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t4_pitchcoding.pdf
 uid: bf0865ec-579b-d571-8513-40d92420238c

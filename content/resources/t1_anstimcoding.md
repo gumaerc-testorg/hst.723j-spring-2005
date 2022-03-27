@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t1_anstimcoding.pdf
 uid: 2c67eb42-9aa6-8fb2-0bb7-a17b63528b68

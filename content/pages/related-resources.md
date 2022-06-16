@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Related resources includes various web links about related programs,
+  laboratories, and about hearing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

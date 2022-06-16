@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes section lists the lecture topics covered in the course
+  along with class notes for some selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Lec 1
 {{< tdopen >}}
 
 
-_Hearing and the Auditory System: An Overview_ ([PDF]({{< baseurl >}}/resources/auditorysysovr))
+_Hearing and the Auditory System: An Overview_ ({{% resource_link 82e94fd8-bb40-f57f-70ad-fb1edf9ddd65 "PDF" %}})
 
 Stages of processing in the auditory system and their function. Detection, localization and recognition of sounds. Subjective and objective variables and experiments. Auditory demonstrations.
 
@@ -66,7 +68,7 @@ Lec 2
 {{< tdopen >}}
 
 
-_How the Ear Works (Functional Cochlear Mechanics)_ ([PDF - 1.4 MB]({{< baseurl >}}/resources/t1_cochlearmechs))
+_How the Ear Works (Functional Cochlear Mechanics)_ ({{% resource_link d5d8496d-3dee-f814-07b6-34e2a2f9735c "PDF - 1.4 MB" %}})
 
 Cochlear tuning. Hair cell transduction. Nonlinearities. The cochlear amplifier. Otoacoustic emissions.
 
@@ -84,7 +86,7 @@ Lec 3
 {{< tdopen >}}
 
 
-_Stimulus Coding in the Auditory Nerve_ ([PDF]({{< baseurl >}}/resources/t1_anstimcoding))
+_Stimulus Coding in the Auditory Nerve_ ({{% resource_link 2c67eb42-9aa6-8fb2-0bb7-a17b63528b68 "PDF" %}})
 
 The AN as an information conduit. Frequency tuning. Nonlinearities. Relation of AN activity to cochlear processing. Neural variability as a limit on psychophysical performance. Compound action potential.
 
@@ -102,7 +104,7 @@ Lec 4
 {{< tdopen >}}
 
 
-_Masking and Frequency Selectivity_ ([PDF]({{< baseurl >}}/resources/t1_masking))
+_Masking and Frequency Selectivity_ ({{% resource_link 59720a09-f7a0-e6c4-aa47-b4f1e75dad9b "PDF" %}})
 
 Psychophysical techniques. Signal detection theory. Power spectrum model of masking. Techniques for measuring auditory filters. Psychophysical effects of cochlear nonlinearities.
 
@@ -162,7 +164,7 @@ Lec 8
 {{< tdopen >}}
 
 
-_Intensity Perception and Cochlear Hearing Loss_ ([PDF]({{< baseurl >}}/resources/t1_loudness))
+_Intensity Perception and Cochlear Hearing Loss_ ({{% resource_link 72417c6e-d633-00d8-017c-745cf51e358e "PDF" %}})
 
 Loudness. Stevens' law. Intensity discrimination. Weber's law and its near miss. Relation of loudness to intensity. Consequences of reduced frequency selectivity and loss of cochlear amplifier in cochlear hearing impairment.
 
@@ -186,7 +188,7 @@ Lec 9
 {{< tdopen >}}
 
 
-_Channels, Synapses and Neurotransmitters_ ([PDF]({{< baseurl >}}/resources/t2_neuronssynaps))
+_Channels, Synapses and Neurotransmitters_ ({{% resource_link ce313cf3-d37d-0410-2125-6ee39ab66c07 "PDF" %}})
 
 Excitatory and inhibitory synaptic transmission. Neurotransmitters and receptors. Second messengers.
 
@@ -252,7 +254,7 @@ Lec 13
 {{< tdopen >}}
 
 
-_Binaural Hearing_ ([PDF]({{< baseurl >}}/resources/t3_binaural))
+_Binaural Hearing_ ({{% resource_link a97104b0-0fd0-c985-c770-ed1eb2bd2b02 "PDF" %}})
 
 Localization and lateralization. Cues for sound localization. Sensitivity to binaural cues. The Jeffress model. The precedence effect. Binaural detection.
 
@@ -270,7 +272,7 @@ Lec 14
 {{< tdopen >}}
 
 
-_Binaural Interactions in the Auditory Brainstem_ ([PDF]({{< baseurl >}}/resources/t3_binaurlintrct))
+_Binaural Interactions in the Auditory Brainstem_ ({{% resource_link ce7216bc-4dba-3d8a-496b-df5d5e039f9b "PDF" %}})
 
 Neural circuitry and cellular specializations for binaural processing. Two basic forms of binaural interactions. Transformations of binaural information in the auditory pathway.
 
@@ -318,7 +320,7 @@ Lec 17
 {{< tdopen >}}
 
 
-_Pitch of Pure and Complex Tones_ ([PDF]({{< baseurl >}}/resources/t4_pitch))
+_Pitch of Pure and Complex Tones_ ({{% resource_link 174b1ccf-326e-a896-b37f-01958193f8c3 "PDF" %}})
 
 Pitch of pure and complex tones. Virtual pitch. Place and temporal models of pitch. Role of pitch in auditory scene analysis.
 
@@ -336,7 +338,7 @@ Lec 18
 {{< tdopen >}}
 
 
-_Neural Processing of Pitch_ ([PDF]({{< baseurl >}}/resources/t4_pitchcoding))
+_Neural Processing of Pitch_ ({{% resource_link bf0865ec-579b-d571-8513-40d92420238c "PDF" %}})
 
 Rate and temporal codes. Temporal envelope and fine structure. Interspike interval representation of pitch. Tuning to modulation frequency and its possible role in pitch coding. Transformations of temporal information along the auditory pathway.
 
@@ -450,7 +452,7 @@ Lec 25
 {{< tdopen >}}
 
 
-_Auditory Scene Analysis (ASA) and Object Formation_ ([PDF - 1.0MB]({{< baseurl >}}/resources/t6_asa)) (Courtesy of Dr. Christophe Micheyl. Used with permission.)
+_Auditory Scene Analysis (ASA) and Object Formation_ ({{% resource_link ecd3c051-8230-546a-f788-fcf8084a3b30 "PDF - 1.0MB" %}}) (Courtesy of Dr. Christophe Micheyl. Used with permission.)
 
 Bottom-up ("primitive") and top-down ("schema based") mechanisms. Simultaneous processes in ASA: Harmonicity, Onset/offset asynchrony, Co-modulation. Sequential processes: Auditory streaming.
 

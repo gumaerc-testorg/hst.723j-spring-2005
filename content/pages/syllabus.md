@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Syllabus includes the basic information on who should take this course?,
+  how does the course work?, course prerequisites, recommended course texts, course
+  structure, assignments and gradings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

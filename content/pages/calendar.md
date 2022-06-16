@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar lists the lecture topics and labs covered in the course along
+  with the assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

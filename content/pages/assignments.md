@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The assignments in this course consist of 4 written theme discussion
+  reports, 3 written laboratory reports, approximately 3 oral paper presentations,
+  and reading of 25-30 papers. It also includes the guidelines for writing theme reports,
+  and for oral paper presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,9 +13,9 @@ uid: 1e1b9138-3434-632c-b3b1-5296944289e8
 
 The assignments in this class consist of 4 written theme discussion reports, 3 written laboratory reports, approximately 3 oral paper presentations, and reading of 25-30 papers.
 
-Guidelines for writing Theme Reports ([PDF]({{< baseurl >}}/resources/themeguidelines))
+Guidelines for writing Theme Reports ({{% resource_link df688135-985c-9a23-82ca-e1fd781a62b9 "PDF" %}})
 
-Guidelines for Oral Paper Presentations ([PDF]({{< baseurl >}}/resources/prsnt_guidelines))
+Guidelines for Oral Paper Presentations ({{% resource_link edc7974c-dfaa-214a-4d29-b48e7c40dad9 "PDF" %}})
 
 Much of the learning is done by theme discussions of scientific papers. A block of lectures provides the background for reading the papers in each theme. Students are expected to read all the theme papers, then each paper is presented orally to the class by one student, followed by a discussion. At the end of a theme discussion, students write a report summarizing what they learned from the papers.
 
@@ -30,7 +34,7 @@ Themes
 {{< anchor "theme1" >}}{{< /anchor >}}Theme 1: Masking and Frequency Selectivity
 --------------------------------------------------------------------------------
 
-Pointers to Theme 1 Papers ([PDF]({{< baseurl >}}/resources/theme_1_pointers))
+Pointers to Theme 1 Papers ({{% resource_link ce84c36c-5fbd-f355-f8f2-a913c28bdd6b "PDF" %}})
 
 ### Background (not discussed, for reference only)
 
@@ -65,7 +69,7 @@ Delgutte, B. "Physiological mechanisms of psychophysical masking: Observations f
 {{< anchor "theme2" >}}{{< /anchor >}}Theme 2: Cellular Mechanisms in the Cochlear Nucleus
 ------------------------------------------------------------------------------------------
 
-Pointers to Theme 2 Papers ([PDF]({{< baseurl >}}/resources/theme_2_pointers))
+Pointers to Theme 2 Papers ({{% resource_link cb3b2e69-810f-5e7e-a5d6-72ac2b2276d6 "PDF" %}})
 
 ### Overview
 
@@ -86,7 +90,7 @@ Kalluri, S., and B. Delgutte. "Mathematical model of cochlear nucleus onset neur
 {{< anchor "theme3" >}}{{< /anchor >}}Theme 3: Binaural Interactions
 --------------------------------------------------------------------
 
-Pointers to Theme 3 Papers ([PDF]({{< baseurl >}}/resources/theme_3_pointers))
+Pointers to Theme 3 Papers ({{% resource_link 495d2383-3598-637d-756a-d80e95f1bbf1 "PDF" %}})
 
 ### Overview
 
@@ -123,7 +127,7 @@ Freyman, R. L., K. S. Helfer, D. D. McCall, and R. K. Clifton. "The role of perc
 {{< anchor "theme4" >}}{{< /anchor >}}Theme 4: Pitch and Temporal Coding
 ------------------------------------------------------------------------
 
-Pointers to Theme 4 Papers ([PDF]({{< baseurl >}}/resources/theme_4_pointers))
+Pointers to Theme 4 Papers ({{% resource_link 520cfd34-65aa-b78d-b453-ce03876d8181 "PDF" %}})
 
 ### Overview
 
@@ -160,7 +164,7 @@ Wiegrebe, L., and R. Meddis. "The representation of periodic sounds in simulated
 {{< anchor "theme5" >}}{{< /anchor >}}Theme 5: Neural Maps and Plasticity
 -------------------------------------------------------------------------
 
-Pointers to Theme 5 Papers ([PDF]({{< baseurl >}}/resources/theme_5_pointers))
+Pointers to Theme 5 Papers ({{% resource_link 121d966f-9cf8-7e59-068e-b6cd66443384 "PDF" %}})
 
 ### Background
 
@@ -197,7 +201,7 @@ Bakin, J. S., and N. Weinberger. "Classical conditioning induces CS-specific rec
 {{< anchor "theme6" >}}{{< /anchor >}}Theme 6: Auditory Scene Analysis and Object Formation
 -------------------------------------------------------------------------------------------
 
-Pointers to Theme 6 Papers ([PDF]({{< baseurl >}}/resources/theme_6_pointers))
+Pointers to Theme 6 Papers ({{% resource_link e0b6748f-0e5c-6837-a4da-dd1f3049f3c6 "PDF" %}})
 
 ### Background
 

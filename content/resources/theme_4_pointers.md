@@ -7,6 +7,7 @@ file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/520cfd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: theme_4_pointers.pdf
 uid: 520cfd34-65aa-b78d-b453-ce03876d8181
 ---
 This resource covers the pointers from the following theme 4 papers: Dai (2000), Darwin et al. (1995), Shamma and Klein (2000), Winter et al. (2001), Krumbholtz et al. (2003), and Penagos et al. (2004).
-

@@ -7,6 +7,7 @@ file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/59720a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: t1_masking.pdf
 uid: 59720a09-f7a0-e6c4-aa47-b4f1e75dad9b
 ---
 This resource majorly covers the following topics: Psychophysical techniques, Signal detection theory, Power spectrum model of masking, Techniques for measuring auditory filters, Psychophysical effects of cochlear nonlinearities.
-

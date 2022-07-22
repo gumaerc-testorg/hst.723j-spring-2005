@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: A series of photographs of an owl at night.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-723js05-th.jpg
 uid: 181369d1-c858-2cf9-f9d7-67a7cc12ba33
 ---
 New image Upload
-

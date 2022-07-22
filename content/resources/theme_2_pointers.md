@@ -6,6 +6,7 @@ file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/cb3b2e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: theme_2_pointers.pdf
 uid: cb3b2e69-810f-5e7e-a5d6-72ac2b2276d6
 ---
 This resource covers the pointers from the following theme 2 papers: May and Sachs (1992), Kopp-Scheinpflug et al. (2002), and Kalluri and Delgutte (2003).
-

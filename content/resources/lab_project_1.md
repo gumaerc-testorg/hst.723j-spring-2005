@@ -7,6 +7,7 @@ description: The purpose of this laboratory exercise is to illustrate how sound 
   for analyzing response of single neurons are considered. A different set of techniques
   deals with how information is coded in networks of interconnected neurons.
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/5e7b75fde1dc5156ce41d85337af83b0_lab_project_1.pdf
+file_size: 144263
 file_type: application/pdf
 learning_resource_types:
 - Labs

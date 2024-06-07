@@ -5,6 +5,7 @@ description: This lab provides a brief introduction to the neuroanatomy demonstr
   features of neurons, and how the different types of cochlear nucleus neurons appear
   under these stains.
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/f9e89edb45ab0b274663d460eb6839f6_t3a_neuroanatomy.pdf
+file_size: 44456
 file_type: application/pdf
 learning_resource_types:
 - Labs

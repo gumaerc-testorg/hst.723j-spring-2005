@@ -4,6 +4,7 @@ description: This lab provides the opportunity to carry out some psychophysical 
   on yourselves and gain some "ear-on" experience with auditory masking. The experiments
   should be carried out in pairs, so you can take turns running the experiments.
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/e97ea236c90f6fbe3b397aee0a65e70d_lab_2.pdf
+file_size: 66957
 file_type: application/pdf
 learning_resource_types:
 - Labs

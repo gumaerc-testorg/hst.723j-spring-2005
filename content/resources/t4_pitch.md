@@ -4,6 +4,7 @@ description: 'This resource majorly covers the following topics: Pitch of pure a
   complex tones, Virtual pitch, Place and temporal models of pitch, and Role of pitch
   in auditory scene analysis.'
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/174b1ccf326ea896b37f01958193f8c3_t4_pitch.pdf
+file_size: 335486
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

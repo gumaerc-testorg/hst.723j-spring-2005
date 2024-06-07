@@ -13,6 +13,7 @@ description: 'This resource describes the following topics: The Auditory System,
   Masking, Issues of Masking and Nonlinearity, Binaural and Spatial Hearing, Pitch
   and Temporal Coding, Auditory Object and Stream Formation, and References.'
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/82e94fd8bb40f57f70adfb1edf9ddd65_auditorysysovr.pdf
+file_size: 792821
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'This resource covers the pointers from the following theme 1 paper
   Moore (1978), Oxenham and Plack (1997), Oxenham and Shera (2003), Delgutte (1988),
   Ruggero et al. (1992), and Cai and Geisler (1996).'
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ce84c36c5fbdf355f8f2a913c28bdd6b_theme_1_pointers.pdf
+file_size: 33443
 file_type: application/pdf
 learning_resource_types:
 - Assignments

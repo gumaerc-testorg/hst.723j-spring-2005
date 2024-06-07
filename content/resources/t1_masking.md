@@ -4,6 +4,7 @@ description: 'This resource majorly covers the following topics: Psychophysical 
   Signal detection theory, Power spectrum model of masking, Techniques for measuring
   auditory filters, Psychophysical effects of cochlear nonlinearities.'
 file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/59720a09f7a0e6c4aa47b4f1e75dad9b_t1_masking.pdf
+file_size: 284182
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

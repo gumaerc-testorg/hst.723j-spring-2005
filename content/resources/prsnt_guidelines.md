@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes various instructions and guidelines for oral paper
   presentations.
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/edc7974cdfaa214a4d29b48e7c40dad9_prsnt_guidelines.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/edc7974cdfaa214a4d29b48e7c40dad9_prsnt_guidelines.pdf
 file_size: 28275
 file_type: application/pdf
 learning_resource_types:

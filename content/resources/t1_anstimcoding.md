@@ -7,7 +7,7 @@ description: 'This resource covers the following main topics: Point of View, Aud
   Stimulation, Temporal representation of complex sounds, Adaptation: Post-stimulatory
   effects, Suppression and Masking, Feedback: Olivocochlear Pathways, Feedback: Effect
   in Background Noise etc.'
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/2c67eb429aa68fb20bb7a17b63528b68_t1_anstimcoding.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/2c67eb429aa68fb20bb7a17b63528b68_t1_anstimcoding.pdf
 file_size: 450966
 file_type: application/pdf
 learning_resource_types:

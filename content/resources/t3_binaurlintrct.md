@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource majorly covers the following topics: Neural circuitry
   and cellular specializations for binaural processing, Two basic forms of binaural
   interactions, and Transformations of binaural information in the auditory pathway.'
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ce7216bc4dba3d8a496bdf5d5e039f9b_t3_binaurlintrct.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ce7216bc4dba3d8a496bdf5d5e039f9b_t3_binaurlintrct.pdf
 file_size: 358413
 file_type: application/pdf
 learning_resource_types:

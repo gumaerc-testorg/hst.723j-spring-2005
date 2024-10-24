@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource majorly covers the following topics: Localization and
   lateralization, Cues for sound localization, Sensitivity to binaural cues, The Jeffress
   model, The precedence effect, and Binaural detection.'
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/a97104b00fd0c985c770ed1eb2bd2b02_t3_binaural.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/a97104b00fd0c985c770ed1eb2bd2b02_t3_binaural.pdf
 file_size: 253031
 file_type: application/pdf
 learning_resource_types:

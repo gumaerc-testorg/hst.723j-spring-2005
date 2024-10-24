@@ -6,7 +6,7 @@ description: 'This resource includes the laboratory session notes for "Fundament
   Quantization Noise, Sub-band Coding, Masking/Bit Allocation, Example: MPEG-1 Psychoacoustic
   Model I, Lab Experiments, Experiment 1: Masking Patterns, and Experiment 2: Masking
   Thresholds.'
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/19bba33816982bca52733750ce92dfaf_fmntlprcptlaudio.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/19bba33816982bca52733750ce92dfaf_fmntlprcptlaudio.pdf
 file_size: 434990
 file_type: application/pdf
 learning_resource_types:

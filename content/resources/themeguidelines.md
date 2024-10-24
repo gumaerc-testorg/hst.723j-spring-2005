@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes various instructions and guidelines for writing
   theme reports.
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/df688135985c9a2382cae1fd781a62b9_themeguidelines.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/df688135985c9a2382cae1fd781a62b9_themeguidelines.pdf
 file_size: 25257
 file_type: application/pdf
 learning_resource_types:

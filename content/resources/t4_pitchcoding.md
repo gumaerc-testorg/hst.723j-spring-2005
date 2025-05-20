@@ -4,7 +4,7 @@ description: 'This resource majorly covers the following topics: Rate and tempor
   codes, Temporal envelope and fine structure, Interspike interval representation
   of pitch, Tuning to modulation frequency and its possible role in pitch coding,
   and Transformations of temporal information along the auditory pathway.'
-file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/bf0865ec579bd571851340d92420238c_t4_pitchcoding.pdf
+file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/bf0865ec579bd571851340d92420238c_t4_pitchcoding.pdf
 file_size: 683452
 file_type: application/pdf
 learning_resource_types:

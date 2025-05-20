@@ -6,7 +6,7 @@ description: 'This resource majorly covers the following topics: A Well-studied 
   Modulation of Synaptic Transmission, Neurotransmitters, Neuronal Junctions and Electrical
   Synapses, Dendrites, Action Potentials, Propagation of Action Potentials, and various
   references for figures.'
-file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ce313cf3d37d041021256ee39ab66c07_t2_neuronssynaps.pdf
+file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ce313cf3d37d041021256ee39ab66c07_t2_neuronssynaps.pdf
 file_size: 563688
 file_type: application/pdf
 learning_resource_types:

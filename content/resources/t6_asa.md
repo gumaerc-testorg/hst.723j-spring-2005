@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource majorly covers the following topics: Bottom-up ("primitive")
   and top-down ("schema based") mechanisms, and  Simultaneous processes in ASA: Harmonicity,
   Onset/offset asynchrony, Co-modulation. Sequential processes: Auditory streaming.'
-file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ecd3c0518230546af788fcf8084a3b30_t6_asa.pdf
+file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ecd3c0518230546af788fcf8084a3b30_t6_asa.pdf
 file_size: 1052404
 file_type: application/pdf
 learning_resource_types:

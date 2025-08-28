@@ -7,11 +7,11 @@ description: In this laboratory, you will classify single units recorded from th
   computer program that enables you to construct the histograms. You will work in
   groups for the lab, but please write separate write-ups of your results. For your
   lab write-up, please limit the text to 4 pages (excluding figures).
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/7dabaa84771c0e33539f499205576733_lab_project_3.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/7dabaa84771c0e33539f499205576733_lab_project_3.pdf
 file_size: 39076
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

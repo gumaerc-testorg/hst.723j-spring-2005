@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/181369d1c8582cf9f9d767a7cc12ba33_hst-723js05-th.jpg
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/181369d1c8582cf9f9d767a7cc12ba33_hst-723js05-th.jpg
 file_size: 9543
 file_type: image/jpeg
 image_metadata:

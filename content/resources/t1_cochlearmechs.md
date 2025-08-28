@@ -6,7 +6,7 @@ description: 'This resource majorly covers: Hearing Mechanics in brief, Cochlear
   Release, Hair-cell Mechano-electric Transduction: Shape across Frequency, The "Cochlear
   Amplifier", Outer Hair Cell somatic Motility, Cochlear Nonlinearity and Suppression,
   Otoacoustic Emissions etc.'
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/d5d8496d3deef81407b634e2a2f9735c_t1_cochlearmechs.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/d5d8496d3deef81407b634e2a2f9735c_t1_cochlearmechs.pdf
 file_size: 1431745
 file_type: application/pdf
 learning_resource_types:

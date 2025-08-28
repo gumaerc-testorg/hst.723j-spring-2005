@@ -4,7 +4,7 @@ description: 'This resource majorly covers the following topics: Loudness, Steve
   law, Intensity discrimination, Weber''s law and its near miss, Relation of loudness
   to intensity, Consequences of reduced frequency selectivity and loss of cochlear
   amplifier in cochlear hearing impairment.'
-file: /courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/72417c6ed63300d8017c745cf51e358e_t1_loudness.pdf
+file: /ol-ocw-studio-app/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/72417c6ed63300d8017c745cf51e358e_t1_loudness.pdf
 file_size: 336218
 file_type: application/pdf
 learning_resource_types:

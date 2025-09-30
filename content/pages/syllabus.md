@@ -15,7 +15,7 @@ Lectures: 2 sessions / week, 2 hours / session
 
 ## Who should take the course?
 
-Anyone interested in auditory perception and the underlying neural mechanisms. The course is required for graduate students in the [Speech and Hearing Bioscience and Technology Program](https://shbtphd.hms.harvard.edu/). It is also appropriate for students in Brain and Cognitive Sciences or Electrical Engineering and Computer Science with an interest in hearing. Some familiarity with peripheral mechanisms of hearing (how the ear works) and biophysics of neurons is expected.
+Anyone interested in auditory perception and the underlying neural mechanisms. The course is required for graduate students in the {{% resource_link "1996962f-4075-48a0-b9e8-c7321a21ad7f" "Speech and Hearing Bioscience and Technology Program" %}}. It is also appropriate for students in Brain and Cognitive Sciences or Electrical Engineering and Computer Science with an interest in hearing. Some familiarity with peripheral mechanisms of hearing (how the ear works) and biophysics of neurons is expected.
 
 ## How does the course work?
 

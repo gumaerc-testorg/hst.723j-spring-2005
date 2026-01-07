@@ -10,7 +10,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 61e88f1f-21f2-0d6e-68ed-c20e496060c1
 ---
-Assigned readings are detailed in the {{% resource_link "1a8e7fc1-6095-4514-9659-c479ea08f271" "Assignments" %}} section. Below is a listing of general references and a recommended bibliography of readings.
+Assigned readings are detailed in the [Assignments](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/assignments) section. Below is a listing of general references and a recommended bibliography of readings.
 
 ## References
 
@@ -48,7 +48,7 @@ Javel, E., J. A. McGee, W. Horst, and G. R. Farley. "Temporal mechanisms in audi
 
 Johnson, D. H. "The relationship between spike rate and synchrony in responses of auditory-nerve fibers to single tones." *J Acoust Soc Am* 68, no. 4 (1980): 1115-1122.
 
-{{% resource_link "da0bd90c-7ee2-4187-8a1d-a5379c5966c8" "![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)" %}} Kiang, N. Y. S., T. Watanabe, E. C. Thomas, and L. F. Clark. {{% resource_link "da0bd90c-7ee2-4187-8a1d-a5379c5966c8" "*Discharge Patterns of Single Fibers in the Cat's Auditory Nerve*" %}} . Cambridge, MA: MIT Press, 1966. ISBN: 9780262110167.
+[![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262110167) Kiang, N. Y. S., T. Watanabe, E. C. Thomas, and L. F. Clark. [*Discharge Patterns of Single Fibers in the Cat's Auditory Nerve*](https://mitpress.mit.edu/9780262110167) . Cambridge, MA: MIT Press, 1966. ISBN: 9780262110167.
 
 Liberman, M. C. "Auditory-nerve responses from cats raised in a low-noise chamber." *J Acoust Soc Am* 63 (1978): 442-455.
 
@@ -82,7 +82,7 @@ Bregman, A. Auditory Scene Analysis. (Available via Bregman's Web site at McGill
 
 Moore, B. C. J. *An Introduction to the Psychology of Hearing.* 5th ed. London, UK: Academic Press, 2003. ISBN: 9780125056281.
 
-{{% resource_link "64284f45-af55-430d-b6e2-5fc693a1f6aa" "![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)" %}} Blauert, J. {{% resource_link "64284f45-af55-430d-b6e2-5fc693a1f6aa" "*Spatial Hearing: The Psychophysics of Human Sound Localization*" %}}*.* Cambridge, MA: MIT Press, 1996. ISBN: 9780262024136.
+[![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262024136) Blauert, J. [*Spatial Hearing: The Psychophysics of Human Sound Localization*](https://mitpress.mit.edu/9780262024136)*.* Cambridge, MA: MIT Press, 1996. ISBN: 9780262024136.
 
 ## References on Masking
 
@@ -112,7 +112,7 @@ Shera, C. A., J. J. Guinan, and A. J. Oxenham. "Revised estimates of human cochl
 
 Darwin, C. J., and R. P. Carlyon. "Auditory grouping." In *Handbook of Perception and Cognition: Hearing*. Edited by Brian Moore. New York, NY: Academic Press, 1995. ISBN: 9780125056267.
 
-{{% resource_link "0fa5a0c5-c1a9-48c8-8c67-41cbaeb7dc88" "![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)" %}} Bregman, Albert S. {{% resource_link "0fa5a0c5-c1a9-48c8-8c67-41cbaeb7dc88" "*Auditory Scene Analysis*" %}}. Cambridge, MA: MIT Press, 1990. ISBN: 9780262022972.
+[![Buy at MIT Press](https://old.ocw.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022972) Bregman, Albert S. [*Auditory Scene Analysis*](https://mitpress.mit.edu/9780262022972). Cambridge, MA: MIT Press, 1990. ISBN: 9780262022972.
 
 ### Miscellaneous
 
